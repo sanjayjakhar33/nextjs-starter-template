@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/seo/audit/route": "app/api/seo/audit/route.js",
+  "/dashboard/audit/page": "app/dashboard/audit/page.js",
+  "/dashboard/content/page": "app/dashboard/content/page.js",
+  "/dashboard/keywords/page": "app/dashboard/keywords/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js"
+}
